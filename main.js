@@ -1,0 +1,13 @@
+console.log("Project By Rashwika Reddy");
+var a=12;
+console.log(a);
+var b=48;
+console.log(b);
+var add_ans=(a+b);
+console.log(add_ans);
+var compound_word_p1="notice";
+console.log(compound_word_p1);
+var compound_word_p2="board";
+console.log(compound_word_p2);
+var fullname=compound_word_p1.concat(compound_word_p2);
+console.log(fullname);
